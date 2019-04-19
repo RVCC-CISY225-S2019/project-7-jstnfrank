@@ -1,0 +1,11 @@
+/* print CSS */
+header,
+.back-to-top,
+.form-container,
+footer {
+    display: none;
+}
+
+img {
+    break-inside: avoid;
+}
